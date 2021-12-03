@@ -1,4 +1,4 @@
-# control program for a robot. 
+# Control program for a robot. 
 
 The robot is located in a two-dimensional room, and moves around by parsing a string of commands using the following syntax:
 
