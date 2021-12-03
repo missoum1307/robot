@@ -8,9 +8,11 @@ The robot is located in a two-dimensional room, and moves around by parsing a st
 
 _Example string: `LFFRFRFRFF`_
 
-for the robot to run, you first need to specify the size of the room, set the commands, set the start position (coordinates) and the direction it is facing when it start.
-the little robot will run and report what square it's located at the end position (coordinates) and what direction it's facing.
-test the robot with the following commands, or any other commands to ensure it correctly computes coordinates:
+For the robot to run, you first need to specify the size of the room, set the commands, set the start position (coordinates) and the direction it is facing when it start.
+
+The little robot will run and report what square it's located at the end position (coordinates) and what direction it's facing.
+
+Test the robot with the following commands, or any other commands to ensure it correctly computes coordinates:
 
 | Size  | Instructions | Start Position | End Position |
 | ----- | ------------ | -------------- | ------------ |
