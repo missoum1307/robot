@@ -19,3 +19,8 @@ Test the robot with the following commands, or any other commands to ensure it c
 | `5x5` | `RFRFFRFRF`  | `(1, 2, N)`    | `(1, 1, N)`  |
 | `5x5` | `FFLFLFFFRF` | `(0, 2, S)`    | `(2, 3, E)`  |
 | `7x7` | `FFLFFRFFLF` | `(6, 5, W)`    | `(2, 2, S)`  |
+
+
+![alt text](https://i.imgur.com/IDli1ZE.png)
+     
+     
