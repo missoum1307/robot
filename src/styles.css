@@ -1,0 +1,29 @@
+.container {
+  display: table-row;
+  background-color: yellow;
+}
+.item {
+  width: 50px;
+  height: 100%;
+  display: inline-flex;
+  background-color: blue;
+  border: 1px solid black;
+  padding: 0;
+}
+
+.row {
+  width: 800px;
+  height: 55px;
+  font-size: 62px;
+  text-align: center;
+}
+
+input {
+  font-size: 25px;
+}
+
+button {
+  padding: 10px;
+  color: blue;
+  font-size: 25px;
+}
