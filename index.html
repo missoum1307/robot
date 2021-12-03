@@ -1,0 +1,35 @@
+<html>
+  <link rel="stylesheet" href="src/styles.css" />
+  <body>
+    <form>
+      <h2>
+        <label for="Number">Select the room size:</label>
+        <select name="Number" id="Number">
+          <option value="6">5</option>
+          <option value="7">6</option>
+          <option value="8">7</option>
+          <option value="9">8</option>
+          <option value="10">9</option>
+          <option value="11">10</option>
+        </select>
+      </h2>
+    </form>
+
+    <div class="container"></div>
+
+    <h3>Current coordinates:</h3>
+    <h3>Current direction:</h3>
+
+    <form id="commands" onsubmit="runRobot">
+      <h2>Set commands:</h2>
+      <input placeholder="FFRFF" size="50" />
+      <h2>Set the starting cordinates:</h2>
+      <input placeholder="0,0" size="50" />
+      <h2>Set the direction:</h2>
+      <input placeholder="N" size="50" />
+      <button>Run the Robot</button>
+    </form>
+  </body>
+
+  <script src="src/index.js"></script>
+</html>
